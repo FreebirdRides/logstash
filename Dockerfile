@@ -11,7 +11,7 @@ FROM phusion/baseimage
 MAINTAINER Sebastien Pujadas http://pujadas.net
 ENV REFRESHED_AT 2017-01-13
 ENV KIBANA_START 0
-ENV LOGSTASH_START 0
+ENV ELASTICSEARCH_START 0
 
 
 ###############################################################################
